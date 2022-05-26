@@ -1,5 +1,7 @@
 # NYC City Bike Analysis
 
+[Link to the dashboard](https://public.tableau.com/app/profile/thilini.fernando/viz/)
+
 ## Objective of the Analysis
 
 The core objective of this analysis is to convince investors that a bike-sharing program in Des Moines is a solid business proposal by analysing the length of the time that bikes are checked out, the number of bike trips.
